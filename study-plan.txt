@@ -1,1 +1,15 @@
 
+Fullstack Web Dev Study Plan
+
+1. HTML, Canvas, SVG, Accessibility
+2. CSS, TailwindCSS
+3. JavaScript (ES6+, DOM, BOM)
+
+HTTP, git, GitHub, terminal, VScode
+
+4. npm, nodeJS
+5. ReactJS
+6. ExpressJS, REST APIs, postman
+7. Databases (mongoDB, SQL)
+
+8. NextJS, NextAuthJS
