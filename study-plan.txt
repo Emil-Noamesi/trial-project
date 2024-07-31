@@ -13,3 +13,11 @@ HTTP, git, GitHub, terminal, VScode
 7. Databases (mongoDB, SQL)
 
 8. NextJS, NextAuthJS
+
+THEORIES TO MASTER
+
+9. Web Authentication
+10. Caching
+11. Design patterns
+12. Data structures and algorithms
+13. System design (HLD and LLD)
